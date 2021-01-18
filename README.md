@@ -1,2 +1,2 @@
 # AudioBook
-Its a text reader audiobook coded in python with some specificaiton used for large text data..
+ This is a pdf text reader with some specifications to help you out with number of pages together. 
